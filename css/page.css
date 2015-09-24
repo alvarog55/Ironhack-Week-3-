@@ -1,0 +1,28 @@
+body {margin: 0;
+font-family: Helvetica;}
+header{display: flex
+	justify-content:center;
+}
+.box {}
+a{text-decoration: none;
+color: red;
+margin-right: 14px}
+.results-wrap {display: flex;
+}
+.result{width: 50%}
+
+p{ color: blue;
+	font-size: 12px;
+}
+nav{display: flex}
+nav a{margin-right: 14px}
+.special{color: red;
+
+}
+.item{margin-bottom: 30px}
+.main-result {width: 50%}
+#different{color: yellow;
+}
+.search-box form button{background-color: blue;
+border: 0; }
+.search-box input{padding: 6px}
